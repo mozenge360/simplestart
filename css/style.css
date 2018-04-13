@@ -1,0 +1,41 @@
+body{
+	background:url(../bg-masthead.jpg);
+	background-repeat: repeat-x;
+}
+.menu{
+
+font-family: Roboto;
+font-size: 18px;
+height:14px;
+font:#fff;
+text-decoration:none;
+position:left;
+opacity: 100%;
+margin:4px;
+}
+
+.active{
+border-bottom:2px solid #fff;
+}
+
+.lg{
+	font-family: Rambla;
+	font-size: 48px;
+	position:center;
+}
+.date{
+	font-family: Roboto;
+	font-size: 24px;
+	height: 28px;
+	position:center;
+}
+.time{
+	font-family: Roboto;
+	font-size: 18px;
+	height: 21px;
+	position:center;
+}
+.see{
+	opacity:0.5;
+	background-color:black;	
+}
